@@ -1,0 +1,28 @@
+{
+  "name": "aplikacja_pogodowa",
+  "version": "1.0.0",
+  "description": "aplikacja pogodowa - CodersCamp 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkucharski17/Aplikacja_Pogodowa.git"
+  },
+  "author": "Michal Kucharski Patryk Jablonski Patrycja Pazdzior Artur Freus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkucharski17/Aplikacja_Pogodowa/issues"
+  },
+  "homepage": "https://github.com/mkucharski17/Aplikacja_Pogodowa#readme",
+  "dependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2"
+  }
+}
